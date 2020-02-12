@@ -31,3 +31,11 @@ Voici le lien du [Tumblr de `l'image sans nom`](https://limagesansnom.tumblr.com
 - **Page "actualité**" qui pourra reprendre les événements à venir
 - Pouvoir reprendre (partager) des **vidéos** d'autres plateformes (youtube, viméo, facebook, etc)
 - Garder leur **signature** qui est de mettre chaque mot dans un coin de la page si possible [voir exemple png ici](https://66.media.tumblr.com/055c436d17280bf90f912cd97fdf84cb/tumblr_pg48vxptyJ1x4xkujo1_640.jpg)
+
+
+## Sites qu'il aime :
+1. [Les Drapiers](https://www.lesdrapiers.be)
+2. [Cordialement - C D L T ](http://c-d-l-t.com/home/)
+3. [N N Studio](http://www.nnstudio.be/)
+4. [Aventure Moderne](http://aventuremoderne.tf/)
+5. [es Septante Cinq](http://www.leseptantecinq.be/fr/)
