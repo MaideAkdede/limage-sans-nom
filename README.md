@@ -7,6 +7,10 @@ Le client est [Olivier Cornil](http://www.oliviercornil.be/).
 
 Voici le lien du [Tumblr de `l'image sans nom`](https://limagesansnom.tumblr.com/) qui est leur site actuel.
 
+## Moodboard 
+
+Accéder au moodbard [en ligne sur InVision](https://projects.invisionapp.com/boards/K73YQ3CAGSC/)
+
 ## Brief :
 - Site et interface facile à utiliser et à mettre à jour
 - Avoir **deux parties distinctes** :
