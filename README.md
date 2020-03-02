@@ -11,6 +11,10 @@ Voici le lien du [Tumblr de `l'image sans nom`](https://limagesansnom.tumblr.com
 
 Accéder au moodbard [en ligne sur InVision](https://projects.invisionapp.com/boards/K73YQ3CAGSC/)
 
+## Plan du site 
+
+Voir [le plan du site](https://github.com/MaideAkdede/limage-sans-nom/blob/master/plan_du_site_L_image_sans_nom.md)
+
 ## Brief :
 - Site et interface facile à utiliser et à mettre à jour
 - Avoir **deux parties distinctes** :
